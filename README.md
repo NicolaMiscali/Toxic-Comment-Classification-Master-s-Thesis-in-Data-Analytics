@@ -95,8 +95,6 @@ Each model is evaluated using:
 | LogReg + Stemming | 0.0002 | 0.98 |
 | NaiveBayes + Stemming | 0.22 | 0.89 |
 
-> ⚠️ Fill in the actual metric values from your notebook output before publishing.
-
 ---
 
 ##  Additional Analysis
